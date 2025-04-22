@@ -26,11 +26,12 @@ TicTacToe/
 - Java Development Kit (JDK) 8 or later
 - Any Java IDE (IntelliJ IDEA, Eclipse, NetBeans, or even good ol' Notepad++)
 - Or, run via terminal
-###🏗️ Compile & Run:
-    ```
-    javac TicTacToe.java
-    java TicTacToe
-    ```
+
+### 🏗️ Compile & Run:
+```
+javac TicTacToe.java
+java TicTacToe
+```
 ## 🎯 Features
 - ✅ 3x3 interactive game grid
 - ✅ Turn-based switching between players X and O
