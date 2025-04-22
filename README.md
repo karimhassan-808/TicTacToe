@@ -63,5 +63,5 @@ java TicTacToe
 
 ## 👨‍💻 Author
 - 👤 [Karim Hassan](https://github.com/karimhassan-808)
-📧 [email](mailto:karimhassanbinich@gmail.com)
+- 📧 [email](mailto:karimhassanbinich@gmail.com)
 
