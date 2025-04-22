@@ -22,11 +22,11 @@ TicTacToe/
 ```
 
 ## 🚀 How to Run
-    ### 🧰 Requirements:
-        - Java Development Kit (JDK) 8 or later
-        - Any Java IDE (IntelliJ IDEA, Eclipse, NetBeans, or even good ol' Notepad++)
-        - Or, run via terminal
-    ###🏗️ Compile & Run:
+### 🧰 Requirements:
+- Java Development Kit (JDK) 8 or later
+- Any Java IDE (IntelliJ IDEA, Eclipse, NetBeans, or even good ol' Notepad++)
+- Or, run via terminal
+###🏗️ Compile & Run:
     ```
     javac TicTacToe.java
     java TicTacToe
